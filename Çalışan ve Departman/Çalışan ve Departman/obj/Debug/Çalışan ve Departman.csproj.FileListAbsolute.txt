@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Çalışan ve Departman\Çalışan ve Departman\bin\Debug\Çalışan ve Departman.exe.config
+C:\Users\Administrator\source\repos\Çalışan ve Departman\Çalışan ve Departman\bin\Debug\Çalışan ve Departman.exe
+C:\Users\Administrator\source\repos\Çalışan ve Departman\Çalışan ve Departman\bin\Debug\Çalışan ve Departman.pdb
+C:\Users\Administrator\source\repos\Çalışan ve Departman\Çalışan ve Departman\obj\Debug\Çalışan ve Departman.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Çalışan ve Departman\Çalışan ve Departman\obj\Debug\Çalışan ve Departman.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Çalışan ve Departman\Çalışan ve Departman\obj\Debug\Çalışan ve Departman.exe
+C:\Users\Administrator\source\repos\Çalışan ve Departman\Çalışan ve Departman\obj\Debug\Çalışan ve Departman.pdb

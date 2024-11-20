@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Doktor ve Hasta\Doktor ve Hasta\bin\Debug\Doktor ve Hasta.exe.config
+C:\Users\Administrator\source\repos\Doktor ve Hasta\Doktor ve Hasta\bin\Debug\Doktor ve Hasta.exe
+C:\Users\Administrator\source\repos\Doktor ve Hasta\Doktor ve Hasta\bin\Debug\Doktor ve Hasta.pdb
+C:\Users\Administrator\source\repos\Doktor ve Hasta\Doktor ve Hasta\obj\Debug\Doktor ve Hasta.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Doktor ve Hasta\Doktor ve Hasta\obj\Debug\Doktor ve Hasta.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Doktor ve Hasta\Doktor ve Hasta\obj\Debug\Doktor ve Hasta.exe
+C:\Users\Administrator\source\repos\Doktor ve Hasta\Doktor ve Hasta\obj\Debug\Doktor ve Hasta.pdb
